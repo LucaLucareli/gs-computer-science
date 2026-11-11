@@ -2,7 +2,12 @@
 **Curso:** Bacharelado em Ciência da Computação | **Ano:** 1º | **Turma:** 1CC  
 **Disciplina:** Computer Science  
 **Projeto:** Módulo de Decisão Lógica — Citizen Assist AI (Triagem e Orientação BPC/LOAS)  
-**Equipe:** [Nome dos Integrantes — RM]
+**Integrantes:**
+| NOME | RM |
+| ---- | -- |
+| ENZO SEIJI DELGADO TABUCHI | 573156 |
+| LUCA ALMEIDA LUCARELI | 569061 |
+| HENRIQUE ALMEIDA LUCARELI | 569183 |
 
 ---
 
